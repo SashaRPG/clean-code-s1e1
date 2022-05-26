@@ -43,13 +43,13 @@ button {
   margin: 0 auto 0;
 }
 
-.task {
+.section__input-text {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.section__body-add-task {
   display: flex;
 }
 
